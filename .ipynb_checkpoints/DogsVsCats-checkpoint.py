@@ -1,7 +1,7 @@
 import argparse
 import tensorflow as tf
 import os
-1---
+1---2---3---
 parser = argparse.ArgumentParser(description='Process some integers')
 parser.add_argument('--mode', default='train', help='train or test')
 parser.add_argument("--num_epochs", default=5, type=int)
